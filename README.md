@@ -1,12 +1,5 @@
 
 
-
-
-
-
-
-My name is Quezia Balonecker. I work as a Student at Cubos Academy.
-
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=queziabalonecker&repo=queziabalonecker&countColorcountColor)
 
 ### Languages & Tools 🛠  
