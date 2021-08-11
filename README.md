@@ -1,10 +1,4 @@
-
-
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=queziabalonecker&repo=queziabalonecker&countColorcountColor)
-
-### Languages & Tools 🛠  
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&color=green)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=green)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;  
-![](https://img.shields.io/badge/--05122A?style=flat&color=orange)&nbsp;  
+  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;![Github](https://img.shields.io/badge/-Github-05122A?style=flat&color=gray)&nbsp;  
 ![](https://img.shields.io/badge/--05122A?style=flat&color=yellow)&nbsp;  
 
