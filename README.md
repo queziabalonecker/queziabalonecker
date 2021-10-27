@@ -4,10 +4,10 @@
 Como todo clichê de pessoas desenvolvedoras, sim, sou apaixonada por tecnologia! Sou sempre muito curiosa e obcecada por aprender coisas novas, adoro usar tecnologia e criatividade pra resolver e automatizar tarefas cotidianas. Abaixo, algumas coisas sobre mim atualmente:
 
 - 🔭 Trabalhando em projetos pessoais
-- 📚 Aprendendo coisas novas diariamente 
-- 💡 Gosto muito de desenvolvimento back-end, mas sou front-end também
+- 🧠 Aprendendo coisas novas diariamente 
+- 💡  Gosto muito de desenvolvimento back-end, mas sou front-end também
 - 💻 Terminando o curso intensivo de desenvolvimento de software da Cubos Academy
-- 👻 Fun fact: já fiz um mini app usando react e node como presente de aniversário de namoro
+- 👻 Fun fact: já fiz um mini app usando react e node como presente de aniversário de namoro 
 
 
 <div >
