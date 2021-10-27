@@ -1,20 +1,35 @@
+### Olá, eu sou a Quézia 👋
+
+
+Como todo clichê de pessoas desenvolvedoras, sim, sou apaixonada por tecnologia! Sou sempre muito curiosa e obcecada por aprender coisas novas, adoro usar tecnologia e criatividade pra resolver e automatizar tarefas cotidianas. Abaixo, algumas coisas sobre mim atualmente:
+
+- 🔭 Trabalhando em projetos pessoais
+- 📚 Aprendendo coisas novas diariamente 
+- 💡 Gosto muito de desenvolvimento back-end, mas sou front-end também
+- 💻 Terminando o curso intensivo de desenvolvimento de software da Cubos Academy
+- 👻 Fun fact: já fiz um mini app usando react e node como presente de aniversário de namoro
+
+
+<div >
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=queziabalonecker&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ 
+</div>
   
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;![Github](https://img.shields.io/badge/-Github-05122A?style=flat&color=gray)&nbsp;  
+  <div style="display: inline_block"><br>
+  <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+</div>
+  
+  ##
+  
+ <div>
+    <a href="mailto:queziaamenezes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/quézia-balonecker-8133a3191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 
 
 
-### Analytics ⚙️
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=queziabalonecker&layout=compact&count_private=true)
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=queziabalonecker&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=queziabalonecker&hide_border=true)
-
-### Let's connect? 🤝
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/quézia-balonecker-8133a3191/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-</p>
