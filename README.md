@@ -5,7 +5,7 @@ Como todo clichê de pessoas desenvolvedoras, sim, sou apaixonada por tecnologia
 
 - 🔭 Trabalhando em projetos pessoais
 - 🧠 Aprendendo coisas novas diariamente 
-- 💡  Gosto muito de desenvolvimento back-end, mas sou front-end também
+- 💡  Desenvolvedora fullstack, gosto muito das duas áreas
 - 💻 Terminando o curso intensivo de desenvolvimento de software da Cubos Academy
 - 👻 Fun fact: já fiz um mini app usando react e node como presente de aniversário de namoro 
 
