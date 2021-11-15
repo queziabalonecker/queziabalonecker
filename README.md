@@ -7,13 +7,13 @@ Como todo clichê de pessoas desenvolvedoras, sim, sou apaixonada por tecnologia
 - 🧠 Aprendendo coisas novas diariamente 
 - 💡  Desenvolvedora fullstack, gosto muito das duas áreas
 - 💻 Terminando o curso intensivo de desenvolvimento de software da Cubos Academy
-- 👻 Fun fact: já fiz um mini app usando react e node como presente de aniversário de namoro 
+- 👻 Fun fact: já fiz um mini app usando react e node como presente de aniversário de namoro 🤣
 
 
-<div >
+<div>
   <a href="https://github.com/queziabalonecker">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=queziabalonecker&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queziabalonecker&langs_count=5&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queziabalonecker&layout=compact&langs_count=5&theme=radical"/>
  
 </div>
   
