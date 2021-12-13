@@ -7,7 +7,6 @@ Como todo clichê de pessoas desenvolvedoras, sim, sou apaixonada por tecnologia
 - 🧠 Aprendendo coisas novas diariamente 
 - 💡  Desenvolvedora fullstack, gosto muito das duas áreas
 - 💻 Terminando o curso intensivo de desenvolvimento de software da Cubos Academy
-- 👻 Fun fact: já fiz um mini app usando react e node como presente de aniversário de namoro 🤣
 
 <div>
   <a href="https://github.com/queziabalonecker">
