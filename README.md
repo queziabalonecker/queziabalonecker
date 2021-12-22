@@ -6,7 +6,7 @@ Como todo clichê de pessoas desenvolvedoras, sim, sou apaixonada por tecnologia
 - 🔭 Trabalhando em projetos pessoais
 - 🧠 Aprendendo coisas novas diariamente 
 - 💡  Desenvolvedora fullstack, gosto muito das duas áreas
-- 💻 Terminando o curso intensivo de desenvolvimento de software da Cubos Academy
+- 💻 Formada pelo curso de Desenvolvimento de Software da Cubos Academy em parceria com o iFood
 
 <div>
   <a href="https://github.com/queziabalonecker">
