@@ -1,7 +1,7 @@
 ### Olá, eu sou a Quézia 👋
 
 
-Como todo clichê de pessoas desenvolvedoras, sim, sou apaixonada por tecnologia! Sou sempre muito curiosa e obcecada por aprender coisas novas, adoro usar tecnologia e criatividade pra resolver e automatizar tarefas cotidianas. Abaixo, algumas coisas sobre mim atualmente:
+Como todo clichê de pessoas desenvolvedoras, sim, sou apaixonada por tecnologia! Sou sempre muito curiosa e obcecada em aprender coisas novas, adoro usar tecnologia e criatividade pra resolver e automatizar tarefas cotidianas. Abaixo, algumas coisas sobre mim atualmente:
 
 - 🔭 Trabalhando em projetos pessoais
 - 🧠 Aprendendo coisas novas diariamente 
