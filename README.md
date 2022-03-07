@@ -5,7 +5,7 @@ Como todo clichê de pessoas desenvolvedoras, sim, sou apaixonada por tecnologia
 
 - 🧠 Aprendendo coisas novas diariamente 
 - 💡  Desenvolvedora fullstack, gosto muito das duas áreas
-- 📚 Formada pelo curso de Desenvolvimento de Software da Cubos Academy em parceria com o iFood
+- 📚 Formada pelo curso de Desenvolvimento de Software da Cubos Academy 
 - 💻 Software Engineer - iFood
 
 <div>
