@@ -3,10 +3,10 @@
 
 Como todo clichê de pessoas desenvolvedoras, sim, sou apaixonada por tecnologia! Sou sempre muito curiosa e obcecada em aprender coisas novas, adoro usar tecnologia e criatividade pra resolver e automatizar tarefas cotidianas. Abaixo, algumas coisas sobre mim atualmente:
 
-- 🔭 Trabalhando em projetos pessoais
 - 🧠 Aprendendo coisas novas diariamente 
 - 💡  Desenvolvedora fullstack, gosto muito das duas áreas
-- 💻 Formada pelo curso de Desenvolvimento de Software da Cubos Academy em parceria com o iFood
+- 📚 Formada pelo curso de Desenvolvimento de Software da Cubos Academy em parceria com o iFood
+- 💻 Software Engineer - iFood
 
 <div>
   <a href="https://github.com/queziabalonecker">
