@@ -11,7 +11,7 @@ Como todo clichê de pessoas desenvolvedoras, sim, sou apaixonada por tecnologia
 <div>
   <a href="https://github.com/queziabalonecker">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queziabalonecker&langs_count=5&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queziabalonecker&langs_count=5&theme=radical&layout=compact"/>
 
 </div>
 
