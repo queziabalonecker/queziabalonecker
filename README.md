@@ -1,12 +1,6 @@
 ### Olá, eu sou a Quézia 👋
 
-
-Como todo clichê de pessoas desenvolvedoras, sim, sou apaixonada por tecnologia! Sou sempre muito curiosa e obcecada em aprender coisas novas, adoro usar tecnologia e criatividade pra resolver e automatizar tarefas cotidianas. Abaixo, algumas coisas sobre mim atualmente:
-
-- 🧠 Aprendendo coisas novas diariamente 
-- 💡  Desenvolvedora fullstack, gosto muito das duas áreas
-- 📚 Formada pelo curso de Desenvolvimento de Software da Cubos Academy 
-
+dev backend, stack: nodejs, typescript, nest, AWS, Docker, Kubernetes
 
 <div>
   <a href="https://github.com/queziabalonecker">
