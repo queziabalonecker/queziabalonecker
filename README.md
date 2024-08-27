@@ -1,5 +1,5 @@
 
-dev backend, stack: nodejs, typescript, nest, AWS, Docker, Kubernetes
+dev backend and crawler, stack: nodejs, typescript, nest, AWS, Docker, Kubernetes
 
 
 
